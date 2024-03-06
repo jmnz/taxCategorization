@@ -50,12 +50,6 @@ categoryDictionary = {"MANAGER": "OFFICER COMPENSATION",
                       "NATIONWIDE":"INSURANCE",
                       "MECANICO":"REPAIR AND MAINTENANCE",
                       "EXPEDIA":"TRAVEL",
-                      "EXPEDIA":"TRAVEL",
-                      "EXPEDIA":"TRAVEL",
-                      "EXPEDIA":"TRAVEL",
-                      "EXPEDIA":"TRAVEL",
-                      "EXPEDIA":"TRAVEL",
-                      "EXPEDIA":"TRAVEL",
                       "AIRBNB": "TRAVEL"}
 
 process_csv(input_file, output_file, categoryDictionary)
