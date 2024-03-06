@@ -23,7 +23,7 @@ re (included in the standard library)
 1. Clone the repository:
 
 ```
-git clone https://github.com/jmnz/python-expense-classification.git
+git clone https://github.com/jmnz/taxCategorization
 ```
 
 2. Replace placeholders:
